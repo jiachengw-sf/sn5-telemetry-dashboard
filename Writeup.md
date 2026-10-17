@@ -70,7 +70,7 @@ If deployed to the cloud rather than run locally:
 - Minimal UI styling, in line with the project's stated priority on understanding over polish.
 
 ## GitHub Link
-<https://github.com/jiachengw-sf/feb_fa26_cs.git>
+<https://github.com/jiachengw-sf/sn5-telemetry-dashboard.git>
 
 ## Demo Video
 <https://youtu.be/0UwZOr9SnRk>
